@@ -10,7 +10,7 @@
 
 ## Skills
 - *Methodologies & Practices* &ndash; Waterfall, Test-Driven Development, Domain-Driven Design, Object-Oriented Programming, Continuous Integration, Automated Testing
-- *Programming Languages & Frameworks* &ndash; Java 8, SQL, JavaScript
+- *Programming Languages* &ndash; Java 8, SQL, JavaScript
 - *Core skills* &ndash; Quick Learner, Team Player, Autonomous, Great Eye for Detail, Self-Organized
 
 ## Tools
