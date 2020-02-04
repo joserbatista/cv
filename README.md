@@ -3,7 +3,7 @@
 > [josebatista15@gmail.com](mailto:josebatista15@gmail.com)
 
 # José Batista &ndash; Back-End Engineer @ Porto, Portugal
-- 3+ years of experience as a software engineer in the telecommunications sector
+- 4+ years of experience as a software engineer in the telecommunications sector
 - Pragmatic and goal-driven
 - Code reviewer, team mentor, plus best-practices advocate
 - Currently training Celfocus Trainees @ Core Foundations (Git, Maven, Clean code, SOLID and Design Patterns)
