@@ -1,5 +1,7 @@
 > [LinkedIn](https://www.linkedin.com/in/joserbatista/en/)
 >
+> [José Batista - Curriculum Vitae (PDF)](https://1drv.ms/b/s!Ao2g3QOXp9gzpxPyClAcWQBP-R8P)
+>
 > [josebatista15@gmail.com](mailto:josebatista15@gmail.com)
 
 # José Batista &ndash; Back-End Engineer @ Porto, Portugal
