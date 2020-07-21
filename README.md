@@ -1,6 +1,6 @@
 > [LinkedIn](https://www.linkedin.com/in/joserbatista/en/)
 >
-> [José Batista - Curriculum Vitae (PDF)](https://1drv.ms/b/s!Ao2g3QOXp9gzpxPyClAcWQBP-R8P)
+> [José Batista - Curriculum Vitae (PDF)](https://github.com/joserbatista/cv/blob/master/JB_CV_LIVE.pdf)
 >
 > [josebatista15@gmail.com](mailto:josebatista15@gmail.com)
 
