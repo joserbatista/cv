@@ -22,8 +22,16 @@
 - *Delivery* &ndash; Git, Jenkins, JIRA, BitBucket
 
 ## Experience
+
+**Senior Software Engineer – Jawwy from stc Microservices** 
+@ *Celfocus (Novabase)* | *January 2020 – Now* 
+-	Part of an agile team responsible for the design and development of Jawwy's Architecture Evolution Microservices
+-	Microservices designed using a CQRS + Hexagonal architecture and with an API-first approach
+-	CI/CD using Jenkins and newman
+-	Stack: Java 11, Spring Boot, MongoDB, Postgres, Kafka, Axon Framework 
+
 **Lead Software Engineer – Product Catalogue** 
-@ *Celfocus (Novabase)* | *March 2019 – Now* 
+@ *Celfocus (Novabase)* | *March 2019 – January 2020* 
 - Leader of a small team responsible for the design, development and maintenance of CELFOCUS Omnichannel Product Catalogue
 - Responsible for aligning requirements and providing solutions for Product Catalogue consumers
 - Migrated from Weblogic + PLSLQ to Wildfly + Postgres
