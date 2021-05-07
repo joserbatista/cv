@@ -16,8 +16,8 @@
 - *Core skills* &ndash; Quick Learner, Team Player, Autonomous, Great Eye for Detail, Self-Organized
 
 ## Tools
-- *Frameworks* &ndash; Spring Framework, Spring Boot, Ext JS 5, JUnit, Mockito
-- *Automation Software* &ndash; Jenkins, Maven, Gradle
+- *Frameworks* &ndash; Spring Boot, JUnit, Mockito
+- *Automation Software* &ndash; Jenkins, Maven
 - *Development* &ndash; vagrant, Postman, SoapUI, IntelliJ IDEA, Xshell
 - *Delivery* &ndash; Git, Jenkins, JIRA, BitBucket
 
@@ -25,10 +25,11 @@
 
 **Senior Software Engineer – Jawwy from stc Microservices** 
 @ *Celfocus (Novabase)* | *January 2020 – Now* 
--	Part of an agile team responsible for the design and development of Jawwy's Architecture Evolution Microservices
--	Microservices designed using a CQRS + Hexagonal architecture and with an API-first approach
--	CI/CD using Jenkins and newman
--	Stack: Java 11, Spring Boot, MongoDB, Postgres, Kafka, Axon Framework 
+- Tech-lead of an agile team that designs and develops Jawwy Architecture Evolution Microservices
+- Microservices designed using a CQRS + Hexagonal architecture and with an API-first approach
+- Implementing Test-Driven Development and using CI/CD with Jenkins and Newman
+- Developed payment integrations with vendors such as Amazon Payment Services and Apple Pay
+- Stack: Java 11, Spring Boot, MongoDB, Postgres, Kafka, Axon Framework, Retrofit 2.x
 
 **Lead Software Engineer – Product Catalogue** 
 @ *Celfocus (Novabase)* | *March 2019 – January 2020* 
